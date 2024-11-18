@@ -161,7 +161,7 @@ astro_patch.smd({
         'isForwarded': true,
         'externalAdReply': {
           'title': 'QUEEN ALYA',
-          'sourceUrl': 'https://whatsapp.com/channel/0029VaeW5Tw4yltQOYIO5E2D'
+          'sourceUrl': 'https://whatsapp.com/channel/0029VarIiQL5a24AU5ZCVV0G'
         }
       },
       'ephemeralExpiration': 3000
