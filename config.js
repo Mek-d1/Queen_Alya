@@ -2,24 +2,24 @@
 const fs = require("fs-extra");
 if (fs.existsSync(".env"))
   require("dotenv").config({ path: __dirname + "/.env" });
-global.audio = "www.youtube.com";
-global.video = "www.youtube.com";
+global.audio = "https://youtube.com";
+global.video = "https://youtube.com";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
-global.email = "kingdavid23565@gmail.com";
+global.email = "davidpromise2003@gmail.com";
 global.location = "Lagos, Nigeria";
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://astrofx0011:astro@cluster0.lmwnxdt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
-global.github = process.env.GITHUB || "https://github.com/STAR-KING0/Queen_Alya";
-global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaeW5Tw4yltQOYIO5E2D";
-global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaeW5Tw4yltQOYIO5E2D";
+global.github = process.env.GITHUB || "https://github.com/Mek-d1/Queen_Alya";
+global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VarIiQL5a24AU5ZCVV0G";
+global.website = process.env.GURL || "https://whatsapp.com/channel/0029VarIiQL5a24AU5ZCVV0G";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "./lib/alya.jpg";
-global.devs = "2349123731026";
-global.sudo = process.env.SUDO || "2349123731026";
-global.owner = process.env.OWNER_NUMBER || "2349123731026";
+global.devs = "2349133354644";
+global.sudo = process.env.SUDO || "2349133354644";
+global.owner = process.env.OWNER_NUMBER || "2349133354644";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -49,10 +49,10 @@ module.exports = {
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "`QUEEN_ALYA™`",
-  author: process.env.PACK_AUTHER || "QUEEN_ALYA",
-  packname: process.env.PACK_NAME || "A L Y A",
+  author: process.env.PACK_AUTHER || "☠᭄𝕯𝖆𝖛𝖎𝖉✰࿐",
+  packname: process.env.PACK_NAME || "Sticker by",
   botname: process.env.BOT_NAME || "QUEEN_ALYA",
-  ownername: process.env.OWNER_NAME || "STAR KING",
+  ownername: process.env.OWNER_NAME || "DAVID-X",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
