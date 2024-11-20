@@ -49,7 +49,7 @@ smd({
     });
 
     // Use the new API to get download links
-    const downloadApiUrl = "https://widipe.com/download/ytdl?url=" + encodeURIComponent(_0x4f86cb.url);
+    const downloadApiUrl = "https://apis.ibrahimadams.us.kg/api/download/ytmp3?url=" + encodeURIComponent(_0x4f86cb.url);
     
     let _0x4acf6c = 3; // Retry logic
     while (_0x4acf6c > 0) {
@@ -126,7 +126,7 @@ smd({
     const youtubeUrl = _0x13be17.trim();
 
     // Use the new API to get download links
-    const downloadApiUrl = "https://widipe.com/download/ytdl?url=" + encodeURIComponent(youtubeUrl);
+    const downloadApiUrl = "https://apis.ibrahimadams.us.kg/api/download/ytmp3?url=" + encodeURIComponent(youtubeUrl);
     
     let _0x4acf6c = 3; // Retry logic
     while (_0x4acf6c > 0) {
@@ -203,7 +203,7 @@ smd({
     const youtubeUrl = _0x13be17.trim();
 
     // Use the new API to get download links
-    const downloadApiUrl = "https://widipe.com/download/ytdl?url=" + encodeURIComponent(youtubeUrl);
+    const downloadApiUrl = "https://apis.ibrahimadams.us.kg/api/download/ytmp3?url=" + encodeURIComponent(youtubeUrl);
     
     let _0x4acf6c = 3; // Retry logic
     while (_0x4acf6c > 0) {
@@ -291,7 +291,7 @@ smd({
     });
 
     // Use the new API to get download links
-    const downloadApiUrl = "https://widipe.com/download/ytdl?url=" + encodeURIComponent(_0x4f86cb.url);
+    const downloadApiUrl = "https://apis.ibrahimadams.us.kg/api/download/ytmp3?url=" + encodeURIComponent(_0x4f86cb.url);
     
     let _0x4acf6c = 3; // Retry logic
     while (_0x4acf6c > 0) {
